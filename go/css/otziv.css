@@ -1,0 +1,28 @@
+
+.otziv-item {
+    margin-bottom: 50px;
+}
+
+.otziv-item__figure {
+    display: inline-block;
+    margin-right: 20px;
+
+}
+
+.otziv-item:last-child {
+    margin-bottom: 0;
+}
+
+.otziv-item__figure-img {
+    margin-bottom: 11px;
+}
+
+.otziv-item__figure-caption {
+    text-align: center;
+}
+
+.otziv-item__text {
+    display: inline-block;
+    vertical-align: top;
+    width: 690px;
+}
