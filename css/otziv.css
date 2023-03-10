@@ -1,6 +1,7 @@
 
 .otziv-item {
     margin-bottom: 50px;
+
 }
 
 .otziv-item__figure {
@@ -25,4 +26,5 @@
     display: inline-block;
     vertical-align: top;
     width: 690px;
+    transform: translateY(50px);
 }

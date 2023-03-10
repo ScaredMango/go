@@ -34,3 +34,7 @@
     right: 10px;
     transform: translate(-50%, -50%);
 }
+
+.qwestion-list__item:last-child{
+    margin-bottom: 0;
+}
